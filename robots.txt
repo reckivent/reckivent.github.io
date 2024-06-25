@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://reckivent.github.io/sitemap
+Sitemap: https://reckivent.github.io/app/sitemap
+Sitemap: https://reckivent.github.io/assets/sitemap
+Sitemap: https://reckivent.github.io/css/sitemap
+Sitemap: https://reckivent.github.io/includes/sitemap
+Sitemap: https://reckivent.github.io/item/sitemap
+Sitemap: https://reckivent.github.io/src/sitemap
